@@ -1,5 +1,4 @@
 import web
-
         
 urls = (
     '/(.*)', 'hello'
